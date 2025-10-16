@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+geopandas
+xgboost
+scikit-learn
+openpyxl
+matplotlib
+seaborn
+urllib3
+kaleido
